@@ -59,12 +59,8 @@ public class DataProcessor {
   private String outputDataDefinitionId;
 
   /**
-   * the data processor script.
+   * Save the processor script in a file which saved in our file system.
    */
-  private String processorFileId;
+  private String processorScriptId;
 
-  /**
-   * define when and how to trigger this processor.
-   */
-  private String trigger;
 }
