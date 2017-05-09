@@ -26,7 +26,7 @@ public class DataProcessorService {
    * data processor repository.
    */
   @Autowired
-  private DataProcessorRepository repository;
+  private transient DataProcessorRepository repository;
 
   /**
    * create data processor.
