@@ -1,0 +1,4 @@
+jar {
+    baseName = 'data-processor'
+    version = '0.0.1'
+}
