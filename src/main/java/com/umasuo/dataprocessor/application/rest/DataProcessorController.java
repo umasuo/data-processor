@@ -1,7 +1,7 @@
 package com.umasuo.dataprocessor.application.rest;
 
 import com.umasuo.dataprocessor.application.dto.DataProcessorView;
-import com.umasuo.dataprocessor.application.dto.map.DataProcessorMapper;
+import com.umasuo.dataprocessor.application.dto.mapper.DataProcessorMapper;
 import com.umasuo.dataprocessor.domain.model.DataProcessor;
 import com.umasuo.dataprocessor.domain.service.DataProcessorService;
 import com.umasuo.dataprocessor.infrastructure.Router;

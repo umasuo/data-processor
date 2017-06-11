@@ -1,4 +1,4 @@
-package com.umasuo.dataprocessor.application.dto.map;
+package com.umasuo.dataprocessor.application.dto.mapper;
 
 import com.umasuo.dataprocessor.application.dto.DataProcessorView;
 import com.umasuo.dataprocessor.domain.model.DataProcessor;
