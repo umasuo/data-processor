@@ -2,8 +2,6 @@ package com.umasuo.dataprocessor.application.dto;
 
 import lombok.Data;
 
-import java.time.ZonedDateTime;
-
 import javax.validation.constraints.NotNull;
 
 /**
@@ -17,12 +15,12 @@ public class DataProcessorView {
   /**
    * The Created at.
    */
-  private ZonedDateTime createdAt;
+  private Long createdAt;
 
   /**
    * The Last modified at.
    */
-  private ZonedDateTime lastModifiedAt;
+  private Long lastModifiedAt;
 
   /**
    * version used for update date check.

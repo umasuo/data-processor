@@ -1,2 +1,2 @@
 # data-processor
-data processor script editor, service, etc.
+自定义逻辑服务，通过此服务，实现开发者在公有云上的自定义功能.
