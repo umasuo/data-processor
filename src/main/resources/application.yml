@@ -11,7 +11,7 @@ spring:
   application:
     name: data-processor
   datasource:
-    url: jdbc:postgresql://localhost:5432/eva
+    url: jdbc:postgresql://localhost:5432/data_processor
     username: postgres
     password: root
     driver-class-name: org.postgresql.Driver
