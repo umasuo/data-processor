@@ -1,4 +1,4 @@
-package com.umasuo.developer;
+package com.umasuo.dataprocessor;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
